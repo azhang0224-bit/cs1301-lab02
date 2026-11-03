@@ -1,0 +1,7 @@
+{
+  "drink": ["Drip Coffee", "Americano", "Double Espresso", "Latte", "Cappuccino", "Flat White", "Mocha", "Cold Brew", "Caramel Macchiato", "Nitro Cold Brew"],
+  "caffeine_mg": [235, 150, 150, 75, 75, 130, 95, 155, 75, 215],
+  "calories": [5, 15, 10, 190, 120, 170, 290, 5, 250, 5],
+  "price": [2.75, 3.50, 3.25, 4.75, 4.50, 4.95, 5.25, 4.25, 5.45, 4.95],
+  "category": ["Brewed", "Espresso", "Espresso", "Milk-based", "Milk-based", "Milk-based", "Milk-based", "Cold", "Milk-based", "Cold"]
+}
